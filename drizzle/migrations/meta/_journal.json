@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789462941138,
+      "tag": "0000_spine_ai_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789463051178,
+      "tag": "0001_spine_ai_demo_data",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789467287096,
+      "tag": "0002_rbac_permissions_datascope",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789536335168,
+      "tag": "0003_tighten_rbac_scope_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789536967976,
+      "tag": "0004_leave_balance_and_notification_triggers",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1789539629484,
+      "tag": "0005_kb_semantic_search_pgvector",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1789555026184,
+      "tag": "0006_rbac_hardening_and_recruitment_org",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1789555099384,
+      "tag": "0007_recruitment_ats",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1789555132633,
+      "tag": "0008_leave_integrity",
+      "breakpoints": true
+    },
+{
+  "idx": 9,
+      "version": "7",
+      "when": 1790100000000,
+      "tag": "0009_spine_ai_phases",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1790200000000,
+      "tag": "0010_spine_ai_phases_11_19",
+      "breakpoints": true
+    }
+  ]
+}
